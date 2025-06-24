@@ -1,0 +1,16 @@
+.odd{
+    background-color: rgb(228, 179, 186);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#one{
+    color: rgb(73, 73, 201);
+    font-size: 36px;
+}
+#two{
+    background-color: rgb(129, 206, 129);
+    font-weight: bold;
+    font-size: 24px;
+}
+.unique{
+    font-size: 24px;
+}
