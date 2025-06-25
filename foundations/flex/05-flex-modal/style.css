@@ -15,13 +15,29 @@ body {
   justify-content: center;
 }
 
+
 .modal {
+  display: flexbox;
   background: white;
   width: 480px;
   border-radius: 10px;
   box-shadow: 2px 4px 16px rgba(0,0,0,.2);
 }
+.container{
+  display: flexbox;
+  margin: 20px;
+}
+.other{
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 15px;
+}
+.text{
+  margin-top: 10px;
+  margin-bottom: 10px;
 
+}
 .icon {
   color: royalblue;
   font-size: 26px;
